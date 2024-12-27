@@ -16,8 +16,10 @@ O quizDEV foi desenvolvido para devs iniciantes, com perguntas sobre linguagens 
 
 <br>
 
-<p align="center">
-  <img alt="TO-DO LIST " src="video/readmeVideo.mp4" width="100%">
+
+https://github.com/user-attachments/assets/18017378-9f7c-406d-a301-540386063ef8
+
+
 </p>
 
 ## 🚀 Tecnologias
