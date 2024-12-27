@@ -7,7 +7,7 @@ O quizDEV foi desenvolvido para devs iniciantes, com perguntas sobre linguagens 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a> |
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -37,7 +37,7 @@ O quizDEV e um game que contem perguntas sobre linguagens de programação, cont
 - Golang
 - JavaScript
 
-O game contem um tempo limite para cada resposta de 30s.
+O game contém um tempo limite para cada resposta de 30s.
 Ao final do game sua pontuação será exibida.
 
 ## :memo: Licença
@@ -54,7 +54,5 @@ go mod download
 go run main.go
 
 Siga as instruções e divirta-se 😄
-
----
 
 Feito com ♥ by Marcos Brhemem 👋
