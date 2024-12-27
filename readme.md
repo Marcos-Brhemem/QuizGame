@@ -8,6 +8,7 @@ O quizDEV foi desenvolvido para devs iniciantes, com perguntas sobre linguagens 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -39,11 +40,20 @@ O quizDEV e um game que contem perguntas sobre linguagens de programação, cont
 O game contem um tempo limite para cada resposta de 30s.
 Ao final do game sua pontuação será exibida.
 
-Siga as instruções e divirta-se 😄
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+## ⚙️ Instalação
+
+Clone o repositório e acesse a pasta `quizDEV`:
+
+```bash
+git clone: github.com/Marcos-Brhemem/quizDEV.git
+go mod download
+go run main.go
+
+Siga as instruções e divirta-se 😄
 
 ---
 
