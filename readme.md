@@ -1,0 +1,48 @@
+<h1 align="center"> quizDEV </h1>
+
+<p align="center">
+O quizDEV foi desenvolvido para devs iniciantes, com perguntas sobre linguagens de progamação.<br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="TO-DO LIST " src="video/readmeVideo.mp4" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Golang
+- Git e Github
+
+## 💻 Projeto
+
+O quizDEV e um game que contem perguntas sobre linguagens de programação, contendo 2 temas para a escolha do jogador.
+
+- Golang
+- JavaScript
+
+O game contem um tempo limite para cada resposta de 30s.
+Ao final do game sua pontuação será exibida.
+
+Siga as instruções e divirta-se 😄
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Marcos Brhemem 👋

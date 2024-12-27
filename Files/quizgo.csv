@@ -1,0 +1,6 @@
+Pergunta,Opção 1,Opção 2,Opção 3,Opção 4,Resposta Correta
+Qual palavra-chave usada para criar uma função em Go?,def,function,func,fn,3
+Qual  a extensão dos arquivos Go?,.java,.go,.golang,.py,2
+Qual comando compila um programa Go?,go build,go compile,go run,go make,1
+Qual é a função principal de um programa Go?,start(),main(),init(),execute(),2
+Como declarar um array em Go?,array,[]int,{int},new int[],2

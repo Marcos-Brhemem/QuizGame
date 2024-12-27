@@ -1,0 +1,6 @@
+Pergunta,Opção 1,Opção 2,Opção 3,Opção 4,Resposta Correta
+Qual é a estrutura de controle condicional em JavaScript?,if,for,switch,try,1
+Como declarar uma constante em JavaScript?,const,let,static,final,1
+Como declarar uma variável em JavaScript?,var,let,const,declare,2
+Qual operador é usado para comparar igualdade em JavaScript?,==,!=,===,=,3
+Qual é o método para remover o último item de um array em JavaScript?,pop(),push(),shift(),unshift(),1
